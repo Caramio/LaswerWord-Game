@@ -3,8 +3,8 @@
 
 #                                         ---------------------------GAME INFORMATION---------------------------
 
-Laser Words is a puzzle game where the player can drag the mirror pieces to the empty tiles and reflect the lasers in the correct order to form the word that the solution
-requires.
+Laser Words is a puzzle game where the player can drag the mirror pieces to the empty tiles and reflect the lasers in the correct order to form the word that the solution requires. The game currently has controls both for PC and mobile platforms.
+
 
 <br/> <br/>
 
