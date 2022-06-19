@@ -10,3 +10,7 @@ requires.
 
 The game is dynamic in its grid size, the developer can input numbers and create a grid with the desired mirrors/letter blocks in the desired locations by entering numeric
 inputs and moving the objects by hand to the desired location(This can be automated).
+
+  ##                                                              Video Demonstration
+  
+  **[Laser Words Gameplay](https://youtu.be/74ep0DfTqeY)**   
